@@ -1,0 +1,28 @@
+clear
+myQuickSort (\ x y -> x < y ) [9, 1, 8, 2, 7, 3, 6, 4, 5]
+myQuickSort (\ x y -> x < y ) [9, 1, 8, 2, 7, 3, 6, 4, 5]
+myQuickSort (\ x y -> x < y ) [9, 1, 8, 2, 7, 3, 6, 4, 5]
+myQuickSort (\ x y -> x < y ) [9, 1, 8, 2, 7, 3, 6, 4, 5]
+myPartition (\ x -> x `mod` 2 == 0) [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+myFoldr myAppend "foo" ["bar", "baz"]
+myFoldl (\ acc x -> x : acc) [] [1, 2, 3, 4, 5]
+myFoldl myAppend "Foo" ["bar", "baz"]
+myFoldl (\ acc x -> acc + x) 0 [1, 2, 3, 4, 5] 
+myFilter (\ x -> x `mod` 2 == 0) [1, 2, 3, 4]  
+myFilter (\ x -> x `mod` 2 == 0) [1, 2, 3, 4]  
+myFilter (\ x -> x % 2 == 0) [1, 2, 3, 4]  
+myMap (\ x -> x + 1) [1, 2, 3]
+clear
+myMap (\ x -> x + 1) [1, 2, 3]
+myMap (\ acc x -> x + 1) [1, 2, 3]
+myUnzip [(1, 2), (3, 7), (45, 65)]
+myUnzip [(1, 2), (3, 7), (45, 65)]
+myUnzip [(1, 2), ('a', 'b'), (45, 65)]
+myUnzip [(1, 2), ('a', 'b'), (45, 65)]
+clear
+clear
+myZip [1,2,3] ['a', 'b', 'c']
+myLast [1,2,3,4]
+myInit [1, 2, 3, 4]
+myReverse [1, 2, 3]
+myReverse [1, 2, 3]

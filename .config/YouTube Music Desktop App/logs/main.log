@@ -1,0 +1,54 @@
+[2025-01-14 14:04:17.818][main][info] Application launched
+[2025-01-14 14:04:17.880][main][info] Application set as default protcol client for 'ytmd'
+[2025-01-14 14:04:17.913][main][info] Created memory store
+[2025-01-14 14:04:17.927][main][info] Performing store migration from 0.0.0 to >=2.0.0
+[2025-01-14 14:04:17.941][main][info] Performing store migration from >=2.0.0 to >=2.0.1
+[2025-01-14 14:04:17.951][main][info] Created electron store
+[2025-01-14 14:04:18.069][main][info] Application ready
+[2025-01-14 14:04:18.080][main][info] Setup IPC handlers
+[2025-01-14 14:04:18.082][main][info] Setup permission handlers
+[2025-01-14 14:04:18.083][main][info] Unregistered shortcuts
+[2025-01-14 14:04:18.083][main][info] Registered shortcuts
+[2025-01-14 14:04:18.086][main][info] Created tray icon
+[2025-01-14 14:04:18.172][main][info] Created main window
+[2025-01-14 14:04:18.178][main][info] Created YTM view
+[2025-01-14 14:04:18.178][main][info] Setup taskbar features
+[2025-01-14 14:04:18.178][main][info] Integration update: Zoom Factor
+[2025-01-14 14:04:18.178][main][info] Starting enabled integrations
+[2025-01-14 14:04:19.334][renderer][info] %c%s color: red; background: yellow; font-size: 24px; WARNING!
+[2025-01-14 14:04:19.335][renderer][info] %c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand.
+[2025-01-14 14:04:26.300][renderer][error] requestStorageAccessFor: Permission denied.
+[2025-01-14 14:04:26.301][renderer][error] requestStorageAccessFor: Permission denied.
+[2025-01-14 14:04:26.301][renderer][error] requestStorageAccessFor: Permission denied.
+[2025-01-14 14:04:28.129][renderer][info] LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.
+[2025-01-14 14:04:30.569][renderer][error] requestStorageAccessFor: Permission denied.
+[2025-01-14 14:04:30.570][renderer][error] requestStorageAccessFor: Permission denied.
+[2025-01-14 14:04:30.570][renderer][error] requestStorageAccessFor: Permission denied.
+[2025-01-14 14:04:59.706][renderer][info] LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.
+[2025-01-14 14:10:35.857][renderer][error] requestStorageAccessFor: Permission denied.
+[2025-01-14 14:10:35.866][renderer][error] requestStorageAccessFor: Permission denied.
+[2025-01-14 14:10:35.866][renderer][error] requestStorageAccessFor: Permission denied.
+[2025-01-15 17:50:48.664][main][info] Application quitting
+
+
+[2025-02-07 10:15:25.472][main][info] Application launched
+[2025-02-07 10:15:25.527][main][info] Application set as default protcol client for 'ytmd'
+[2025-02-07 10:15:25.577][main][info] Created memory store
+[2025-02-07 10:15:25.588][main][info] Created electron store
+[2025-02-07 10:15:25.884][main][info] Application ready
+[2025-02-07 10:15:25.888][main][info] Setup IPC handlers
+[2025-02-07 10:15:25.891][main][info] Setup permission handlers
+[2025-02-07 10:15:25.893][main][info] Unregistered shortcuts
+[2025-02-07 10:15:25.894][main][info] Registered shortcuts
+[2025-02-07 10:15:25.898][main][info] Created tray icon
+[2025-02-07 10:15:25.965][main][info] Created main window
+[2025-02-07 10:15:25.973][main][info] Created YTM view
+[2025-02-07 10:15:25.974][main][info] Setup taskbar features
+[2025-02-07 10:15:25.974][main][info] Integration update: Zoom Factor
+[2025-02-07 10:15:25.974][main][info] Starting enabled integrations
+[2025-02-07 10:15:33.155][main][info] Application quitting
+
+

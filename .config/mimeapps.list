@@ -1,0 +1,24 @@
+[Default Applications]
+inode/directory=org.kde.dolphin.desktop
+x-scheme-handler/http=zen.desktop
+x-scheme-handler/https=zen.desktop
+x-scheme-handler/chrome=zen.desktop
+text/html=zen.desktop
+application/x-extension-htm=zen.desktop
+application/x-extension-html=zen.desktop
+application/x-extension-shtml=zen.desktop
+application/xhtml+xml=zen.desktop
+application/x-extension-xhtml=zen.desktop
+application/x-extension-xht=zen.desktop
+
+[Added Associations]
+x-scheme-handler/http=userapp-Zen Browser-S7POZ2.desktop;userapp-Zen Browser-M82SZ2.desktop;zen.desktop;
+x-scheme-handler/https=userapp-Zen Browser-S7POZ2.desktop;userapp-Zen Browser-M82SZ2.desktop;zen.desktop;
+x-scheme-handler/chrome=userapp-Zen Browser-S7POZ2.desktop;userapp-Zen Browser-M82SZ2.desktop;zen.desktop;
+text/html=userapp-Zen Browser-S7POZ2.desktop;userapp-Zen Browser-M82SZ2.desktop;zen.desktop;
+application/x-extension-htm=userapp-Zen Browser-S7POZ2.desktop;userapp-Zen Browser-M82SZ2.desktop;zen.desktop;
+application/x-extension-html=userapp-Zen Browser-S7POZ2.desktop;userapp-Zen Browser-M82SZ2.desktop;zen.desktop;
+application/x-extension-shtml=userapp-Zen Browser-S7POZ2.desktop;userapp-Zen Browser-M82SZ2.desktop;zen.desktop;
+application/xhtml+xml=userapp-Zen Browser-S7POZ2.desktop;userapp-Zen Browser-M82SZ2.desktop;zen.desktop;
+application/x-extension-xhtml=userapp-Zen Browser-S7POZ2.desktop;userapp-Zen Browser-M82SZ2.desktop;zen.desktop;
+application/x-extension-xht=userapp-Zen Browser-S7POZ2.desktop;userapp-Zen Browser-M82SZ2.desktop;zen.desktop;

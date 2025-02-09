@@ -1,0 +1,8 @@
+[Unit]
+Description=Gammastep
+
+[Service]
+ExecStart=/usr/bin/gammastep-indicator -l 48.8566:2.3522
+
+[Install]
+WantedBy=default.target
